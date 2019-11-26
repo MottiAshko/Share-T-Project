@@ -5,6 +5,6 @@
 <hr></hr>
 <h1>Version History will Update Here:</h1>
 <br>
-Ver 1.0:Start A New Project Is Burn It time for a new kind of entertainment for human kind ,are you ready?|Beta Mode|Marvel And Chill!
+Ver 1.0:Start A New Project|Beta Mode|
 <hr>
 
